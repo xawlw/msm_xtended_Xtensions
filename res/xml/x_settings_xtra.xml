@@ -31,6 +31,12 @@
             android:summary="@string/keyboard_ime_summary"
             android:fragment="com.msm.xtended.fragments.InputSettings" />
 
+        <Preference
+            android:key="panel_porn"
+            android:title="@string/panel_porn_title"
+            android:summary="@string/panel_porn_summary"
+            android:fragment="com.msm.xtended.fragments.PanelPorn" />
+
         <com.msm.xtended.preferences.SystemSettingListPreference
             android:key="screenshot_type"
             android:entries="@array/screenshot_type_entries"
