@@ -385,7 +385,7 @@
 
     <!-- NavBar Visibility -->
     <string name="navbar_visibility">Gezinme çubuğu tuşları</string>
-    <string name="navbar_visibility_summary"Gezinme çubuğu tuşlarını göster</string>
+    <string name="navbar_visibility_summary">Gezinme çubuğu tuşlarını göster</string>
 
     <!-- Volume Button Music Control -->
     <string name="volume_rocker_music_controls_title">Müzik kontrolü</string>
