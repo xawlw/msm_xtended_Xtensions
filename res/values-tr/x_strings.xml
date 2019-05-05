@@ -125,7 +125,7 @@
     <string name="status_bar_battery_percentage_text_inside">Simge içinde göster</string>
 
     <!-- Status bar battery style-->
-   <string name="status_bar_battery_style_title">Pil simgesi stili</string>
+    <string name="status_bar_battery_style_title">Pil simgesi stili</string>
     <string name="status_bar_battery_style_port">Dikey</string>
     <string name="status_bar_battery_style_circle">Daire</string>
     <string name="battery_style_dotted_circle">Noktalı daire</string>
@@ -249,7 +249,6 @@
     <string name="clock_date_style_lowercase">Küçük harf</string>
     <string name="clock_date_style_uppercase">Büyük harf</string>
     <string name="clock_date_format_custom">Özel java biçimi</string>
-    <string name="clock_date_format">Tarih biçimi</string>
 
     <!-- AOSP Gestures -->
     <string name="aosp_gesture_preference">Aosp hareketleri</string>
@@ -295,7 +294,7 @@
     <!-- Navbar tuner -->
     <string name="navbar_tuner_title">Gezinme çubuğu tuşları</string>
 
-  <!-- Lock Clock Fonts -->
+    <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Saat yazı tipi</string>
     <string name="lock_clock_font_summary">Kilit ekranındaki saat widgeti\'nin varsayılan yazı tipini değiştir</string>
     <string name="lock_clock_font_dialog_title">Saat yazı tipi seçin</string>
@@ -462,7 +461,7 @@
     <string name="ime_switcher_notify">Seçici bildirimi</string>
     <string name="ime_switcher_notify_summary">Giriş yöntemi seçici bildirimini görüntüle</string>
 
-   <!-- Toast Icon & Text Color -->
+    <!-- Toast Icon & Text Color -->
     <string name="toast_category">Bildirim menüsü</string>
     <string name="toast_text_color">Bildirim metin rengi</string>
     <string name="toast_icon_color">Bildirim simge rengi</string>
@@ -1158,23 +1157,22 @@
     <string name="volte_icon_summary">VoLTE kullanılabilir olduğunda simgesini göster</string>
 
   	 <!-- Lockscreen Colors -->
-  	 <string name="lockscreen_colors">Kilit ekranı renkleri</string>
-	   <string name="lockscreen_phone_icon_color">Kilit ekranı alt sol kısayol</string>
-  	 <string name="lockscreen_lock_icon_color">Kilit ekranı kilit simgesi</string>
-	   <string name="lockscreen_camera_icon_color">Kilit ekranı alt sağ kısayol</string>
-  	 <string name="ls_shortcut_icon_color">Kilit ekranı kısayolları</string>
-	   <string name="lockscreen_indication_text_color">Kilit ekranı gösterge metni</string>
-   	<string name="lockscreen_clock_color">Kilit ekranı saati</string>
-   	<string name="lockscreen_clock_date_color">Kilit ekranı tarihi</string>
-   	<string name="lockscreen_colors_reset_title">Kilit ekranı renklerini sıfırla</string>
-   	<string name="lockscreen_colors_reset_message">Bu renkleri varsayılana sıfırlamak istediğinize emin misiniz?</string>
-   	<string name="lockscreen_colors_title">Kilit ekranı renkleri</string>
-   	<string name="lockscreen_owner_info_color">Sahip bilgisi</string>
-    <string name="lockscreen_indication_text_color">Kilit ekranı gösterge metni</string>
-    <string name="lockscreen_weather_icon_color">Hava durumu simge rengi</string>
-   	<string name="lock_screen_weather_temp_color">Hava sıcaklığı</string>
-   	<string name="lock_screen_weather_city_color">Hava durumu şehri</string>
-	   <string name="yes">Evet</string>
+   <string name="lockscreen_colors">Kilit ekranı renkleri</string>
+   <string name="lockscreen_phone_icon_color">Kilit ekranı alt sol kısayol</string>
+   <string name="lockscreen_lock_icon_color">Kilit ekranı kilit simgesi</string>
+   <string name="lockscreen_camera_icon_color">Kilit ekranı alt sağ kısayol</string>
+   <string name="ls_shortcut_icon_color">Kilit ekranı kısayolları</string>
+   <string name="lockscreen_clock_color">Kilit ekranı saati</string>
+   <string name="lockscreen_clock_date_color">Kilit ekranı tarihi</string>
+   <string name="lockscreen_colors_reset_title">Kilit ekranı renklerini sıfırla</string>
+   <string name="lockscreen_colors_reset_message">Bu renkleri varsayılana sıfırlamak istediğinize emin misiniz?</string>
+   <string name="lockscreen_colors_title">Kilit ekranı renkleri</string>
+   <string name="lockscreen_owner_info_color">Sahip bilgisi</string>
+   <string name="lockscreen_indication_text_color">Kilit ekranı gösterge metni</string>
+   <string name="lockscreen_weather_icon_color">Hava durumu simge rengi</string>
+   <string name="lock_screen_weather_temp_color">Hava sıcaklığı</string>
+   <string name="lock_screen_weather_city_color">Hava durumu şehri</string>
+   <string name="yes">Evet</string>
 
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">Tek el modu</string>
@@ -1650,7 +1648,6 @@
 	   <!-- Status Bar Header -->
     <string name="status_bar_custom_header_title">Özel başlık görüntüsü</string>
     <string name="status_bar_custom_header_summary">Bildirim panelinin üstünde görüntülenecek bir görüntü seçin</string>
-    <string name="status_bar_custom_header_title">Etkinleştir</string>
     <string name="daylight_header_pack_title">Başlık görüntü paketi</string>
     <string name="status_bar_custom_header_shadow_title">Başlık görüntü gölgesi</string>
     <string name="status_bar_custom_header_shadow_summary">Parlak görüntülerde daha iyi görünürlük için</string>
