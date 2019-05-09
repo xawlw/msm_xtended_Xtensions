@@ -92,7 +92,7 @@
             android:key="adb_notify"
             android:title="@string/adb_notify"
             android:summary="@string/adb_notify_summary"
-            android:defaultValue="true" />
+            android:defaultValue="false" />
 
         <com.msm.xtended.preferences.SystemSettingSwitchPreference
             android:key="disable_fc_notifications"
